@@ -46,4 +46,4 @@ Estudo e análise de conceitos criptográficos.
 Recursos e artigos sobre criptografia e suas aplicações todas no PDF que está no repositório.
 
 ## ✍️ Autor
-Felipe Viana Reis.
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/64935845?v=4" width=115><br><sub>Felipe Viana Reis</sub>](https://github.com/Felps3296)
