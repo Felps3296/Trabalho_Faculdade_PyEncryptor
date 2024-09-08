@@ -24,7 +24,7 @@ Inspirados por especialistas e estudiosos na área, o projeto também abordará 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação utilizada para o desenvolvimento do sistema.
-- **Bibliotecas de Criptografia**: (Especificar se houver alguma biblioteca específica utilizada)
+- **Bibliotecas de Criptografia**
 
 ## 📂 Instalação
 
